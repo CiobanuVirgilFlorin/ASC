@@ -10,7 +10,9 @@ namespace Moores_law
     {
         static void Main(string[] args)
         {
-            int n, ani, luni;
+            /// Pentu a calcula dupa cat timp puterea de calcul va fi de n ori mai mare am folosit formula log2 n=x*18(numarul de luni dupa care se dubleaza)
+            
+            int n;
 
             Console.WriteLine("Introdiceti n: ");
             
